@@ -1,2 +1,2 @@
 # resume
-Resume storage
+The Place where I store my resume.
